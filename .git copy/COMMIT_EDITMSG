@@ -1,0 +1,3 @@
+Add back navigation links to Chat and Dashboard pages
+
+Introduced a 'Back' link with an ArrowLeft icon to both Chat and Dashboard pages for improved navigation. This uses react-router-dom's Link component to route users back to the home page.
